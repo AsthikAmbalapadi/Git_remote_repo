@@ -5,4 +5,6 @@ Local repo test.
 This is remote test.
 Local repo test, updated changes.
 Fetch test1.
-This a test sequence
+This a test sequence.
+
+New test seqence.
